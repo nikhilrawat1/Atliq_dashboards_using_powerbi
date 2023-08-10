@@ -2,13 +2,13 @@
 We designed four views of atliq hardware comapny 
 
 FINANCE
-![](Read me/finance.PNG)
+![](Readme/finance.PNG)
 
 SALES
-![](Read me/sales.PNG)
+![](Readme/sales.PNG)
 
 MARKET
-![](Read me/market.PNG)
+![](Readme/market.PNG)
 
 SUPPLY CHAIN
-![](Read me/supplychain.PNG)
+![](Readme/supplychain.PNG)
