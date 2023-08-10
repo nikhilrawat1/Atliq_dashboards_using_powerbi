@@ -1,10 +1,10 @@
 # Atliq_dashboards_using_powerbi
 We designed four views of atliq hardware company :-
 
-Finance View
-Sales View
-Marketing View
-Supply chain View 
+Finance View ,
+Sales View,
+Marketing View,
+Supply chain View .
 
 HOME
 ![](Readme/home.PNG)
